@@ -494,7 +494,7 @@ input:focus{
 	border-radius: 5px;
 	margin: auto;
 	margin: 0 0px 20px 0px;
-	font-size: .9rem;
+	font-size: 1rem;
 }
 .touch table input::placeholder {
 	color: #b7b7b7;
@@ -672,7 +672,7 @@ input:focus{
 	.search_mobile .rent, .search_mobile .commercial{
 		background-color: white;
 		border-radius: 5px;
-		margin-top: .8vh;
+		margin-top: 1.5vh;
 		height: 6vh;
 	}
 	.rent p, .commercial p{
@@ -717,7 +717,7 @@ input:focus{
 	    background-color: #ffa200;
 	    width: 70%;
 	    padding: 2% 0;
-	    margin: 1vh auto;
+	    margin: 1vh auto 2vh;
 	}
 
 	/*===========Facility===========*/
@@ -761,7 +761,6 @@ input:focus{
 		border-radius: 5px;
 		margin: auto;
 		margin: 0 0px 20px 0px;
-		font-size: .5rem;
 	}
 	.touch table tr:last-child input{
 		width: 100%;
