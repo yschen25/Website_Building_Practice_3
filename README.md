@@ -1,18 +1,20 @@
-# Build_Website_Practice_3
+# Website_Building_Practice_3
 
-         * To practice build website
+         * To practice build the website
          * To practice RWD
+<br/>         
          
-         
-## Description
+## Update
 
-It's the second version that I optimize some parts
+* **2018.09.07**
 
-        * Optimize the existing RWD and add the RWD for tablet
+        * Optimizing the existing RWD
+        * Adding RWD for the tablet device
         * Using CDN file instead of using local file 
-        * Revising HTML and CSS to optimize layout, e.g., input、icon、animation
+        * Revising HTML and CSS to optimize layout, e.g., input, icon, animation
         * Using better js functionality
-        * Fix bugs
-        
+        * Fixing bugs
+<br/>
+
 ## References
 It's take a [template](https://livedemo00.template-help.com/wt_58887/) for template to practice
