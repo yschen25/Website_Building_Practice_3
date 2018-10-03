@@ -1,8 +1,14 @@
 # Website_Building_Practice_3
 
-         * To practice build the website
-         * To practice RWD
-<br/>         
+To practice build the website and RWD.
+<br/>
+<br/>
+
+## Demo
+
+### **[WEBSITE BUILDING PRACTICE 3](https://yschen25.github.io/Website_Building_Practice_3/) -> Where You Can See the Website**
+<img src="images/QR_Code.png" alt="Website_Building_Practice_3" title="Website_Building_Practice_3" width="20%">
+<br/>    
          
 ## Update
 
@@ -17,4 +23,9 @@
 <br/>
 
 ## References
-It's take a [template](https://livedemo00.template-help.com/wt_58887/) for template to practice
+It's take this [website](https://livedemo00.template-help.com/wt_58887/) for template to practice.
+<br/>
+<br/>
+
+## QR Code Generator
+Using [IOI QR Code Generator](https://qr.ioi.tw/zh/).
