@@ -1,6 +1,6 @@
 # Website_Building_Practice_3
 
-To practice build the website and RWD.
+To practice build the website 3, take the other website as a template to practice JavaScript, jQuery and RWD without bootstrap.
 <br/>
 <br/>
 
